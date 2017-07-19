@@ -1,2 +1,2 @@
 # python_basic
-It contains basics of python including OOP concepts
+It contains basics of python including OOP concepts @1
